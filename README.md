@@ -36,7 +36,7 @@ Os dados acima são obtidos após a criação de um novo projeto no Firebase.
 
 ### Executar
 
-Para executar o projeto, basta entrar na pasta src/Ui e executar o seguinte comando
+Para executar o projeto, basta entrar na pasta src/Ui e executar o seguinte comando:
 
 ````
   expo start 
