@@ -32,7 +32,7 @@ Adicione dentro da pasta src/Ui/src/config/ um arquivo chamado config.json com o
     "measurementId": ""
   }
   ````
-Os dados acima são obtivos após a criação de um novo projeto no Firebase. 
+Os dados acima são obtidos após a criação de um novo projeto no Firebase. 
 
 ### Executar
 
